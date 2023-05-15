@@ -1,4 +1,4 @@
-# DiagDep
+# DialogDep
 This repository contains the dataset and code for the ACL Findings 2023 paper
 "A Pilot Study on Dialogue-Level Dependency Parsing for Chinese" by Gongyao Jiang, Shuang Liu, Meishan Zhang*, and Min Zhang.
 
