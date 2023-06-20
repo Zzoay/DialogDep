@@ -13,9 +13,9 @@ Please cite our paper if it is helpful to your work.
       author={Gongyao Jiang and Shuang Liu and Meishan Zhang and Min Zhang},
       year={2023},
       month = jul,
-      booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
-      publisher = "Association for Computational Linguistics",
-      address = "Toronto, Canada",
-      url = "https://arxiv.org/abs/2305.12441",
+      booktitle = {Findings of the Association for Computational Linguistics: ACL 2023},
+      publisher = {Association for Computational Linguistics},
+      address = {Toronto, Canada},
+      url = {https://arxiv.org/abs/2305.12441},
 }
 ```
