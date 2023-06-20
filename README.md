@@ -7,3 +7,15 @@ The dataset is included in the data/ folder, and the implementation code is in t
 The source code for the annotation platform is publicly available at [front end](https://github.com/Zzoay/Annotator-Front) and [back end](https://github.com/Zzoay/Annotator-Backend).
 
 Please cite our paper if it is helpful to your work.
+```latex
+@inproceedings{jiang-etal-2023-pilot,
+      title={A Pilot Study on Dialogue-Level Dependency Parsing for Chinese}, 
+      author={Gongyao Jiang and Shuang Liu and Meishan Zhang and Min Zhang},
+      year={2023},
+      month = jul,
+      booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+      publisher = "Association for Computational Linguistics",
+      address = "Toronto, Canada",
+      url = "https://arxiv.org/abs/2305.12441",
+}
+```
