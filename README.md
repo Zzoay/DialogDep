@@ -9,13 +9,17 @@ The source code for the annotation platform is publicly available at [front end]
 Please cite our paper if it is helpful to your work.
 ```latex
 @inproceedings{jiang-etal-2023-pilot,
-      title={A Pilot Study on Dialogue-Level Dependency Parsing for Chinese}, 
-      author={Gongyao Jiang and Shuang Liu and Meishan Zhang and Min Zhang},
-      year={2023},
-      month = jul,
-      booktitle = {Findings of the Association for Computational Linguistics: ACL 2023},
-      publisher = {Association for Computational Linguistics},
-      address = {Toronto, Canada},
-      url = {https://arxiv.org/abs/2305.12441},
+    title = "A Pilot Study on Dialogue-Level Dependency Parsing for {C}hinese",
+    author = "Jiang, Gongyao  and
+      Liu, Shuang  and
+      Zhang, Meishan  and
+      Zhang, Min",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.607",
+    pages = "9526--9541",
 }
 ```
